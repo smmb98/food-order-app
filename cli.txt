@@ -1,0 +1,13 @@
+npx create-react-app my-app
+
+npx generate-react-cli component MyComponent
+
+npx generate-react-cli component HomePage --type=UI
+
+npx generate-react-cli component BoxLayout --type=layout
+
+npx generate-react-cli component BoxLayout --type=meals
+
+npx generate-react-cli component BoxLayout --type=cart
+
+bash JS-to-JSX.sh
